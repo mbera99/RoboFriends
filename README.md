@@ -1,4 +1,4 @@
-# RoboFriends
+# RoboFriends : 1.0.0
 Tutorial for React
 To run the project:
 
